@@ -11,7 +11,7 @@ function SayName(n)  {
   SayName(n-1);
 }
 
-SayName(50)
+SayName(12)
 
 
 // if we call the above function it get stuck into infinite loop; 
